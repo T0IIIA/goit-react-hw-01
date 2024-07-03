@@ -1,0 +1,23 @@
+.avatar {
+  max-width: 75px;
+  width: 100%;
+}
+
+.name {
+  color: black;
+  font-size: 24px;
+}
+
+.status {
+  margin: 5px;
+  font-weight: 200;
+  letter-spacing: 0.04em;
+}
+
+.offline {
+  color: rgb(173, 0, 0);
+}
+
+.online {
+  color: rgb(0, 123, 0);
+}
